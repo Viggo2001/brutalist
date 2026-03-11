@@ -31,7 +31,7 @@ module.exports = {
 ## Usage
 
 ```tsx
-import { Button, Card, CardBody, Input, Badge, Modal, Tabs } from '@hotel/ui-components';
+import { Button, Card, CardBody, Input, Badge, Modal, Tabs } from '@brutalist/ui-components';
 
 function App() {
   return (
