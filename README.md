@@ -5,11 +5,11 @@ A brutalist UI component library with bold borders, offset shadows, and a striki
 ## Installation
 
 ```bash
-npm install @brutalist/ui-components
+npm install brutalist-ui-components
 # or
-yarn add @brutalist/ui-components
+yarn add brutalist-ui-components
 # or
-pnpm add @brutalist/ui-components
+pnpm add brutalist-ui-components
 ```
 
 ## Setup
@@ -22,7 +22,7 @@ Add the package path to your `tailwind.config.js`:
 module.exports = {
   content: [
     './src/**/*.{js,ts,jsx,tsx}',
-    './node_modules/@brutalist/ui-components/**/*.{js,ts,jsx,tsx}',
+    './node_modules/brutalist-ui-components/**/*.{js,ts,jsx,tsx}',
   ],
   // ... rest of config
 }
@@ -31,7 +31,7 @@ module.exports = {
 ## Usage
 
 ```tsx
-import { Button, Card, CardBody, Input, Badge, Modal, Tabs } from '@brutalist/ui-components';
+import { Button, Card, CardBody, Input, Badge, Modal, Tabs } from 'brutalist-ui-components';
 
 function App() {
   return (
