@@ -1,4 +1,4 @@
-# @brutalist/ui-components
+# brutalist-ui-components
 
 A brutalist UI component library with bold borders, offset shadows, and a striking blue and white color scheme.
 
