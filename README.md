@@ -1,15 +1,15 @@
-# @hotel/ui-components
+# @brutalist/ui-components
 
 A brutalist UI component library with bold borders, offset shadows, and a striking blue and white color scheme.
 
 ## Installation
 
 ```bash
-npm install @hotel/ui-components
+npm install @brutalist/ui-components
 # or
-yarn add @hotel/ui-components
+yarn add @brutalist/ui-components
 # or
-pnpm add @hotel/ui-components
+pnpm add @brutalist/ui-components
 ```
 
 ## Setup
@@ -22,7 +22,7 @@ Add the package path to your `tailwind.config.js`:
 module.exports = {
   content: [
     './src/**/*.{js,ts,jsx,tsx}',
-    './node_modules/@hotel/ui-components/**/*.{js,ts,jsx,tsx}',
+    './node_modules/@brutalist/ui-components/**/*.{js,ts,jsx,tsx}',
   ],
   // ... rest of config
 }
